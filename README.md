@@ -2,6 +2,9 @@
 
 This is a **Model Context Protocol (MCP)** server for **MonadicSharp**, a C# library for Railway-Oriented Programming (ROP) and robust AI agent development.
 
+Topics:
+mcp model-context-protocol claude anthropic csharp typescript code-generation ai-tooling developer-tools
+
 This MCP server provides Claude with:
 1.  **Expert Knowledge**: Access to MonadicSharp documentation and patterns (`rop-basics`, `ai-patterns`) via Resources.
 2.  **Code Generation**: A tool to generate idiomatic MonadicSharp snippets (`generate_monadic_snippet`).
